@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<countries>
+    
+	<country name="Canada"> 
+	<government>Parliamentary democracy, federation, and constitutional monarchy</government>
+        <leader>Queen Elizabeth II; represented by Governor General David Johnston</leader>
+        <photo>images/canada.png</photo>
+	<population>34,834,841</population>
+	<gdp>$1.518 trillion (2013 est.)</gdp>
+        <exports>Motor vehicles and parts, industrial machinery, aircraft, telecommunications equipment; chemicals, plastics, fertilizers; wood pulp, timber, crude petroleum, natural gas, electricity, aluminum</exports>
+        <imports>Machinery and equipment, motor vehicles and parts, crude oil, chemicals, electricity, durable consumer goods</imports>
+        
+        </country>
+        
+        <country name="France"> 
+	<government>Republic</government>
+        <leader>Francois Hollande</leader>
+        <photo>images/france.png</photo>
+	<population>66,259,012 </population>
+	<gdp>$2.273 trillion (2013 est.)</gdp>
+        <exports>Machinery and transportation equipment, aircraft, plastics, chemicals, pharmaceutical products, iron and steel, beverages</exports>
+        <imports>Machinery and equipment, vehicles, crude oil, aircraft, plastics, chemicals</imports>
+        
+        </country>
+        
+        <country name="Germany"> 
+	<government>Federal Republic</government>
+        <leader>Angela Merkel</leader>
+        <photo>images/germany.png</photo>
+	<population>80,996,685</population>
+	<gdp>$3.227 trillion (2013 est.)</gdp>
+        <exports>Motor vehicles, machinery, chemicals, computer and electronic products, electrical equipment, pharmaceuticals, metals, transport equipment, foodstuffs, textiles, rubber and plastic products</exports>
+        <imports>Machinery, data processing equipment, vehicles, chemicals, oil and gas, metals, electric equipment, pharmaceuticals, foodstuffs, agricultural products</imports>
+        
+        </country>
+        
+        <country name="Italy"> 
+	<government>Republic</government>
+        <leader>Giorgio Napolitano</leader>
+        <photo>images/italy.png</photo>
+	<population>61,680,122</population>
+	<gdp>$1.805 trillion (2013 est.)</gdp>
+        <exports>Engineering products, textiles and clothing, production machinery, motor vehicles, transport equipment, chemicals; food, beverages and tobacco; minerals, nonferrous metals</exports>
+        <imports>Engineering products, chemicals, transport equipment, energy products, minerals and nonferrous metals, textiles and clothing; food, beverages, and tobacco</imports>
+        
+        </country>
+        
+        <country name="Japan"> 
+	<government>Parliamentary government with a constitutional monarchy</government>
+        <leader>Shinzo Abe</leader>
+        <photo>images/japan.png</photo>
+	<population>127,103,388</population>
+	<gdp>$4.729 trillion (2013 est.)</gdp>
+        <exports>Motor vehicles, semiconductors, iron and steel products, auto parts, plastic materials, power generation machinery</exports>
+        <imports>Petroleum, liquid natural gas, clothing, semiconductors, coal, audio and visual apparatus</imports>
+        
+        </country>
+        
+        <country name="United Kingdom"> 
+	<government>Constitutional monarchy and Commonwealth realm</government>
+        <leader>David Cameron</leader>
+        <photo>images/uk.png</photo>
+	<population>63,742,977</population>
+	<gdp>$2.378 trillion (2013 est.)</gdp>
+        <exports>Manufactured goods, fuels, chemicals; food, beverages, tobacco</exports>
+        <imports>Manufactured goods, machinery, fuels; foodstuffs</imports>
+        
+        </country>
+        
+        <country name="United States"> 
+	<government>Constitution-based federal republic; strong democratic tradition</government>
+	<population>318,892,103</population>
+        <leader>Barack Obama</leader>
+        <photo>images/us.png</photo>
+	<gdp>$16.72 trillion (2013 est.)</gdp>
+        <exports>Agricultural products, industrial supplies, capital goods, consumer goods</exports>
+        <imports>Agricultural products, industrial supplies, capital goods, consumer goods</imports>
+        
+        </country>
+        
+        <country name="Russia"> 
+	<government>Federation</government>
+        <leader>Vladimir Putin</leader>
+        <photo>images/russia.png</photo>
+	<population>142,470,272</population>
+	<gdp>$2.553 trillion (2013 est.)</gdp>
+        <exports>Petroleum and petroleum products, natural gas, metals, wood and wood products, chemicals, and a wide variety of civilian and military manufactures</exports>
+        <imports>Machinery, vehicles, pharmaceutical products, plastic, semi-finished metal products, meat, fruits and nuts, optical and medical instruments, iron, steel</imports>
+        
+        </country>
+        
+         <country name="Burundi"> 
+	<government>Republic</government>
+        <leader>Pierre Nkurnziza</leader>
+        <photo>images/burundi.png</photo>
+	<population>10,395,931</population>
+	<gdp>$5.75 billion (2013 est.)</gdp>
+        <exports>Coffee, tea, sugar, cotton, hides</exports>
+        <imports>Capital goods, petroleum products, foodstuffs</imports>
+        
+        </country>
+         
+        <country name="Democratic Republic of Congo"> 
+	<government>Republic</government>
+        <leader>Joseph Kabila</leader>
+        <photo>images/congo.png</photo>
+	<population>77,433,744</population>
+	<gdp>$29.39 billion (2013 est.)</gdp>
+        <exports>Diamonds, copper, gold, cobalt, wood products, crude oil, coffee</exports>
+        <imports>Foodstuffs, mining and other machinery, transport equipment, fuels</imports>
+        
+        </country>
+          
+        <country name="Equatorial Guinea"> 
+	<government>Republic</government>
+        <leader>Brig. Gen. (Ret.) Teodoro Obiang Nguema Mbasogo</leader>
+        <photo>images/guinea.png</photo>
+	<population>722,254</population>
+	<gdp>$19.68 billion (2013 est.)</gdp>
+        <exports>Petroleum products, timber</exports>
+        <imports>Petroleum sector equipment, other equipment, construction materials, vehicles</imports>
+        
+        </country>
+           
+        <country name="Eritrea"> 
+	<government>Transitional Government</government>
+        <leader>Isaias Afworki</leader>
+        <photo>images/eritrea.png</photo>
+	<population>6,380,803</population>
+	<gdp>$4.717 billion (2013 est.)</gdp>
+        <exports>Livestock, sorghum, textiles, food, small manufactures</exports>
+        <imports>Machinery, petroleum products, food, manufactured goods</imports>
+        
+        </country>
+            
+        <country name="Haiti"> 
+	<government>Republic</government>
+        <leader>Michel Martelly</leader>
+        <photo>images/haiti.png</photo>
+	<population>9,996,731</population>
+	<gdp>$13.42 billion (2013 est.)</gdp>
+        <exports>Apparel, manufactures, oils, cocoa, mangoes, coffee</exports>
+        <imports>Food, manufactured goods, machinery and transport equipment, fuels, raw materials</imports>
+        
+        </country>
+             
+        <country name="Madagascar"> 
+	<government>Republic</government>
+        <leader>Hery Martial Rajaonarimampianina Rakotoarimana</leader>
+        <photo>images/madagascar.png</photo>
+	<population>23,201,926</population>
+	<gdp>$22.03 billion (2013 est.)</gdp>
+        <exports>Coffee, vanilla, shellfish, sugar, cotton cloth, clothing, chromite, petroleum products</exports>
+        <imports>Capital goods, petroleum, consumer goods, food</imports>
+        
+        </country>
+              
+        <country name="Swaziland"> 
+	<government>Monarchy</government>
+        <leader>King Mswati III</leader>
+        <photo>images/swaziland.png</photo>
+	<population>1,419,623</population>
+	<gdp>$6.259 billion (2013 est.)</gdp>
+        <exports>Soft drink concentrates, sugar, wood pulp, cotton yarn, refrigerators, citrus and canned fruit</exports>
+        <imports>Motor vehicles, machinery, transport equipment, foodstuffs, petroleum products, chemicals</imports>
+        
+        </country>
+               
+        <country name="Zimbabwe"> 
+	<government>Parliamentary democracy</government>
+        <leader>Robert Mugabe</leader>
+        <photo>images/zimbabwe.png</photo>
+	<population>13,771,721</population>
+	<gdp>$7.496 billion (2013 est.)</gdp>
+        <exports>Platinum, cotton, tobacco, gold, ferroalloys, textiles/clothing</exports>
+        <imports>Machinery and transport equipment, other manufactures, chemicals, fuels, food products</imports>
+        
+        </country>
+        
+        
+
+	
+</countries>
+
+
